@@ -1,4 +1,4 @@
-1.	Update Connection String  of Database in ‘appsettings.json’
+1.	Update Connection String  of the Database in ‘appsettings.json’
 
 2.	Add Migration and Update Database to create Identity tables in Database
 
