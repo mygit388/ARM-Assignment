@@ -1,0 +1,6 @@
+@ARM_Assignment_HostAddress = http://localhost:5249
+
+GET {{ARM_Assignment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
